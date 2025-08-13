@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexT1002.AlexT1002&"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -27,5 +21,11 @@
 ###
 
 <h5 align="center">A german developer</h5>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexT1002.AlexT1002&"  />
+</div>
 
 ###
